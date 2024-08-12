@@ -28,7 +28,9 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Você é menor de idade");
             }
-            
+            Console.WriteLine("Sua idade é " + idade);
+            Console.WriteLine("Digite qualquer tecla para continuar");
+            Console.ReadKey();
         }
     }
 }
