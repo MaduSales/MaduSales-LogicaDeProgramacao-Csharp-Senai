@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Aluno\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Aluno\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Aluno\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.FrmDesconto.resources
+C:\Users\Aluno\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Aluno\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Aluno\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
