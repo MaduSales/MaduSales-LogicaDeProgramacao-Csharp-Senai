@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Aluno\source\repos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Aluno\source\repos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Aluno\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.FrmExemplo1.resources
+C:\Users\Aluno\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Aluno\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Aluno\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
